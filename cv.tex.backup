@@ -1,0 +1,53 @@
+\documentclass[classic]{moderncv}
+
+% moderncv styles
+\moderncvstyle{classic}
+
+% character encoding
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+%\usepackage[latin1]{inputenc}
+% personal data
+\firstname{Jérémie}
+\familyname{MERIGEAULT}
+\title{Responsable de Performances.}
+\address{10, rue Saint-Sabin\\ 75011 Paris, FRANCE}
+
+
+\phone{+33 7 61 65 88 27}
+\email{jeremie.merigeault@gmail.com}
+%\extrainfo{{\small Détenteur du permis B}}
+%\renewcommand{\listsymbol}{{\fontencoding{U}\fontfamily{ding}\selectfont\tiny\symbol{'102}}}
+\definecolor{see}{rgb}{0.5,0.5,0.5}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+
+\begin{document}
+\maketitle%
+\makequote%
+
+\section{Expériences Professionnelles}
+\cventry{Septembre 2010 - Aujourd'hui}{EDF, projet SIMM}{}{Responsable de la performance et de la disponibilité de la base de données Oracle sur l'application commerciale critique d'EDF (CRM, facturation \& BI) à très forte volumétrie (30 millions de clients)}{}{Pilotage des équipes d'expertise Oracle et des équipes d'optimisation de requêtes SQL. Conception et déploiement des évolutions de la base de données (Oracle 11g, Compression des données, partitionnement, RAC).  Gestion de la relation contractuelle avec l'éditeur (Support personnalisé \& Conseil).}
+
+\cventry{Janvier 2012 - Aujourd'hui}{EDF, projet SIMM}{}{Responsable de la performance de l'application}{}{Pilotage du pôle d'expertise SAP/Oracle et des équipes technico-fonctionnelles dédiées. Réalisation des audits de performances de la production et des recettes en charge des nouvelles versions. Qualification des audits externes. Veille technologique, notamment sur les produits de type big data (Exadata, Hana).}
+
+\section{Compétences}
+\cvitem{\textbf{Logiciels}}{Oracle Grid Infrastructure, Oracle database / Oracle RAC et SAP Netweaver 7.}
+\cvitem{\textbf{Systèmes d'exploitation}}{Linux Debian et RedHat. Bonnes connaissances du système Unix AIX.}
+\cvitem{\textbf{Langages}}{Shell, SQL en très forte volumétrie, PL/SQL et \LaTeX{}.}
+
+\section{Formation}
+\cventry{Février - Juillet 2010}{Stage de fin d'étude}{EDF, projet SIMM, 6 mois}{}{Suivi du déploiement d'une architecture Haute-Disponibilité sur une application à forte volumétrie}{Réalisation d'un prototype d'application Haute-Disponibilité avec les produits de cluster Ibm GPFS, Oracle Clusterware, Oracle RAC 10gr2 et SAP Netweaver sous Red Hat Enterprise Linux. Pilotage d'une installation de l'architecture sous AIX.}
+
+\cventry{2007 à 2010}{Elève Ingénieur}{INSA de ROUEN}{}{Département Architecture des Systèmes d'Information}{Option Modélisation des Systèmes d'Information.}
+\cventry{2009}{Projet INSA Certifié (PIC)}{INSA de ROUEN}{Réalisation d'un projet certifié ISO9001:2008, en équipe autonome pour le CHU de ROUEN}{Conception et implémentation de Web-Services permettant l'interrogation d'une base de données médicales. Utilisation de standards W3C ouverts}{Rôle d'administrateur réseau, d'administrateur de base de données (Oracle) et de développeur.}
+\section{Informations Complémentaires}
+
+\cvitem{\textbf{Langues}}{Anglais de niveau avancé, obtention de 910 sur 990 au TOEIC.\\Français, langue maternelle.}
+\cvitem{\textbf{Centres d'intérêts}}{Lecture, passionné de fantastique et de science-fiction.\\Amateur de jeux de plateau et de jeux de rôles.}
+
+
+
+\end{document}
