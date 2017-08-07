@@ -146,9 +146,9 @@
 ~
 	\smartdiagram[bubble diagram]{
         \textbf{Big-Data}\\\textbf{Engineer},
-        \textbf{Relational/}\\\textbf{Document}\\\textbf{Databases},
-        \textbf{~~~~OOP~~~~~},
-        \textbf{Mobile}\\\textbf{Dev},
+        \textbf{Relational/}\\\textbf{NoSql}\\\textbf{Databases},
+        \textbf{~~~Linux~~~~},
+        \textbf{Dev}\\\textbf{Ops},
         \textbf{Machine}\\\textbf{Learning},
         \textbf{Test}\\\textbf{~~Automation~~},
         \textbf{Statistical}\\\textbf{Analysis}
