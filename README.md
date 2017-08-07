@@ -1,11 +1,11 @@
 # Curriculum
 
-## Pré-requis
+## Run docker
 ``` bash
-apt-get install texlive
+docker run -it -p 2022:22 -v  /home/jeremie:/home/docker/foo tianon/latex bash
 ```
 
-## Usage
+## To compile
 ``` bash
-pdflatex ./cv.tex 
+root@08d88d827679:/home/docker/foo/git/Curriculum# xelatex ./cv.tex
 ```
