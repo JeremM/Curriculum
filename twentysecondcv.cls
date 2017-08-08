@@ -148,10 +148,10 @@
         \textbf{Big-Data}\\\textbf{Engineer},
         \textbf{Relational/}\\\textbf{NoSql}\\\textbf{Databases},
         \textbf{~~~Linux~~~~},
-        \textbf{Dev}\\\textbf{Ops},
-        \textbf{Machine}\\\textbf{Learning},
+        \textbf{Statistical}\\\textbf{Analysis},
+        \textbf{~~~Dev~~~}\\\textbf{Ops},
         \textbf{Test}\\\textbf{~~Automation~~},
-        \textbf{Statistical}\\\textbf{Analysis}
+        \textbf{Machine}\\\textbf{Learning}
     }
 }
 
