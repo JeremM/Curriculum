@@ -148,7 +148,7 @@
         \textbf{Big-Data}\\\textbf{Engineer},
         \textbf{Relational/}\\\textbf{NoSql}\\\textbf{Databases},
         \textbf{~~~Linux~~~~},
-        \textbf{Statistical}\\\textbf{Analysis},
+        \textbf{Hadoop}\\\textbf{Ecosystem},
         \textbf{~~~Dev~~~}\\\textbf{Ops},
         \textbf{Test}\\\textbf{~~Automation~~},
         \textbf{Machine}\\\textbf{Learning}
