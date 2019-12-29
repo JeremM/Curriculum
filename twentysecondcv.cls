@@ -236,7 +236,7 @@
         
         \profilesection{Interests}{3cm} 
         
-		\interests{{Big Data \& Distributed Computing/5.8},{Software Development/5},{Statistical Analysis/4.5},{Data Visualization/4.2},{Open-source/5},{Craftmanship/5}}
+		\interests{{Big Data \& Distributed Computing/5.8},{Predictive Modelling/4},{Data Visualization/4.2},{Open-source/5},{Software craftmanship/5}}
         
         \interests
         
