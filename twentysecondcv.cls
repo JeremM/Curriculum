@@ -243,7 +243,7 @@
         \profilesection{Languages}{2.4cm} 
         {$
               \begin{array}{l}
-              \hspace{-2mm}{\includegraphics[scale=0.45]{img/languages_muted.png}}
+              \hspace{-2mm}{\includegraphics[scale=0.45]{img/bar-graph-languages.png}}
               \end{array}
         $}   
   \end{textblock}
